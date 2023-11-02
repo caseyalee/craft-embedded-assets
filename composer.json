@@ -29,7 +29,7 @@
   },
   "require": {
     "craftcms/cms": "^4.0.0",
-    "embed/embed": "^3.4.17",
+    "embed/embed": "^4",
     "php": "^8.0.2"
   },
   "autoload": {
